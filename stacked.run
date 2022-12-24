@@ -1,0 +1,3 @@
+
+gh pr create --title "prev: refs/heads/featureB next: refs/heads/featbure" --draft --base "refs/heads/featureB" --head "refs/heads/featbure"
+
